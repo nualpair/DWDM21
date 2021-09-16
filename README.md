@@ -3,7 +3,7 @@ Data warehouse &amp; Data mining 2021
 
 นวลแพร พนาวัฒนวงศ์ 623020525-0 
 
-Group name
+Group Name : I Love อ.ต้น
 
 1 อภิวัฒน์ เหลี่ยมสิงขร รหัส 623020545-4
 
