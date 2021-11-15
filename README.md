@@ -48,3 +48,19 @@
   * Time Series Plot
  
 * บทที่ 3 [Data_Preprocessing_(Chapter_3)](https://github.com/nualpair/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb)
+  * Meta Data (Data ที่ใช้อธิบาย Data)
+  * ชี้ข้อมูลในตาราง
+  * ชี้แบบ .iloc[] (มองข้อมูลแบบ matrix)
+  * Missing Values
+  * Handling Misiing Value 1 (ลบค่า missing ออกไป)
+  * Quiz 3 ให้หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+  * Handling Misiing Value 1.5 (ลบค่า missing เฉพาะในคอลัมม์ที่เราสนใจออกไป)
+  * Quiz 3.1 ให้หาว่าการทำ dropna() แบบเลือก drop เฉพาะคอลลัมม์ที่เราสนใจ (age) ทำให้ข้อมูลหายไปกี่ %
+  * Handling Misiing Value 2 (แทนค่าด้วย class ใหม่ (unknown))
+  * Handling Misiing Value 3 (แทนค่าด้วย class ใหม่ (ค่าที่เหมาะสม)
+  * Handling Misiing Value 4 (แทนค่าด้วย ค่ากลาง)
+  * Handling Misiing Value 5 (แทนค่าด้วย ค่ากลางของ sample ใน class เดียวกัน)
+  * Select data by values [PD] คำสั่งแพนด้า
+  * ขั้นตอนสร้าง list ของ boolen
+  * สร้าง list ของ boolen
+  * Quiz 4 + การบ้าน
