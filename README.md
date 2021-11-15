@@ -64,3 +64,7 @@
   * ขั้นตอนสร้าง list ของ boolen
   * สร้าง list ของ boolen
   * Quiz 4 + การบ้าน
+  * ต่อตารางแนวแกน Y [PD]
+  * การเรียงข้อมูล [PD]
+  * Outlier
+  * Quiz 5
