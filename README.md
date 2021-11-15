@@ -47,4 +47,4 @@
   * Box plot
   * Time Series Plot
  
-* บทที่ 3
+* บทที่ 3 [Data_Preprocessing_(Chapter_3)](https://github.com/nualpair/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb)
