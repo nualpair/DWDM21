@@ -46,3 +46,5 @@
   * คำสั่ง .head() .tail()
   * Box plot
   * Time Series Plot
+ 
+* บทที่ 3
