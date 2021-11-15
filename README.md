@@ -78,4 +78,4 @@
   * save ตารางเอาไปใช้ที่อื่น
   * การสร้างตาราง
 
-* บทที่ 6 
+* บทที่ 6 [Chapter_6_Association_Rules](https://github.com/nualpair/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
