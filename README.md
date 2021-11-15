@@ -16,3 +16,27 @@
 5.กิตติคุณ เกียรติศักดิ์ศิริ รหัส 623020760-0
 
 
+## **ภาคปฏิบัติ (Google Colab)**
+
+* บทที่ 2 [Data101(Chapter2)](https://github.com/nualpair/DWDM21/blob/main/Data101_(Chapter2).ipynb)
+  * ไฟล์ .csv (cav คือ comma separated values) เป็นไฟล์หลักที่เราได้ใช้เรียนกันในวิชานี้
+  * Basic Python
+  * Casting int () float () str ()
+  * Data Structure
+  * วิธีสร้าง list ว่าง
+  * เติมค่าลงไปใน list ใช้ (.append)
+  * การชี้ค่าใน list (indexing)
+  * list slicing การตัดลิสต์
+  * จุดเริ่มต้น:จุดสุดท้าย :step
+  * list + list
+  * format string
+  * Loop
+  * Nested loop ลูบซ้อนลูบ
+  * Condition (if statement)
+  * Quiz 1 หา max
+  * การบ้านที่ 3 หาเกรด
+  * Function
+  * ลักณะตัวอย่าง ไม่มี input
+  * ลักษณะตัวอย่างที่ ไม่มี output
+  * ลักษณะตัวอย่าง ไม่มี input และ output
+  * ลักษณะของ input พารามิเตอร์
