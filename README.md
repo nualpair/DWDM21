@@ -1,7 +1,7 @@
 # DWDM21
 # Data warehouse &amp; Data mining 2021
 
-นวลแพร พนาวัฒนวงศ์ 623020525-0 
+**นวลแพร พนาวัฒนวงศ์ 623020525-0**
 
 ## Group Name : I Love อ.ต้น
 
@@ -40,3 +40,9 @@
   * ลักษณะตัวอย่างที่ ไม่มี output
   * ลักษณะตัวอย่าง ไม่มี input และ output
   * ลักษณะของ input พารามิเตอร์
+ 
+* บทที่ 2 [Data102_(Chapter2)](https://github.com/nualpair/DWDM21/blob/main/Data102_(Chapter2).ipynb)
+  * Nan = not a Number (ช่องว่าง)
+  * คำสั่ง .head() .tail()
+  * Box plot
+  * Time Series Plot
