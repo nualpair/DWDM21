@@ -81,3 +81,5 @@
 * บทที่ 6 [Chapter_6_Association_Rules](https://github.com/nualpair/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
   * ลบ records ที่ถูก cancel ออกไป
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+  * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
+  * 
