@@ -83,4 +83,4 @@
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
   * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
   * Apriori
-  * 
+  * Quiz 7)
