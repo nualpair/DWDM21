@@ -83,7 +83,7 @@
   * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
   * เตรียม Data สำหรับ (Fequence Pattern) Association Rules
   * Apriori
-  * Quiz 7)
+  * Quiz 7
 
 * บทที่ 7 [Chapter7_Classification_(Decision_Tree)](https://github.com/nualpair/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
   * Load Data
