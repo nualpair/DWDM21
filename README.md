@@ -92,3 +92,8 @@
   * Evaluation
   * Random
   * Advanced Tree
+  * TEST
+  * Start here
+  * Train - Test
+  * Train - Validation
+  * การบ้านครั้งที่ 16
