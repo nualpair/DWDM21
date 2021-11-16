@@ -89,3 +89,6 @@
   * Load Data
   * train (ฝึกสอนตัวแบบ)
   * plot tree
+  * Evaluation
+  * Random
+  * Advanced Tree
