@@ -86,4 +86,6 @@
   * Quiz 7)
 
 * บทที่ 7 [Chapter7_Classification_(Decision_Tree)](https://github.com/nualpair/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
-  * 
+  * Load Data
+  * train (ฝึกสอนตัวแบบ)
+  * plot tree
