@@ -118,3 +118,15 @@
   * Train - Test
   * Evalution
 
+* บทที่ 8 [Chapter_8_Clustering))](https://github.com/nualpair/DWDM21/blob/main/Chap8Clustering.ipynb)
+  * K-means
+  * Generat Data
+  * Explole data
+  * Clustering
+  * ตัวอย่าง
+  * นับจำนวนสี
+  * จัดกลุ่มสีให้เหลือ 16 สี
+  * ใช้ centroid เป็นตัวแทนของสี
+  * แทนสีคืนลงไป
+  * Hierachical Clustering
+  * Clustering Evaluation
