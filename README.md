@@ -98,4 +98,15 @@
   * Train - Validation
   * การบ้านครั้งที่ 16
 
-* บทที่ 7 [Chap7_Classification_(KNN_NN))](https://github.com/nualpair/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+* บทที่ 7 [Chap7_Classification_(KNN_NN)](https://github.com/nualpair/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+  * Load data
+  * Split Data
+  * Train Model
+  * knn1
+  * knn2
+  * knn3
+  * Retrain & Evaluate
+  * Neural Network
+  * Train - Test
+  * ANN 2
+  * ANN 3
