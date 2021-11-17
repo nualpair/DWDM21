@@ -164,5 +164,5 @@
 
 * FinalProject [FinalProject](https://github.com/nualpair/DWDM21/blob/main/FinalProject2.ipynb)
 
-
+* สไลด์ โปรเจค [Slide Project](https://github.com/nualpair/DWDM21/blob/main/Slide%20Project.pdf)
 
