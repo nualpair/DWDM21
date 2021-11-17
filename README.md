@@ -36,7 +36,20 @@
   * Data Cleaning คืออะไร
   * Data Integration
 
+* บทที่4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/nualpair/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf)
+  * Data Warehousing คืออะไร
+  * การใช้ data warehouse ทั้งหมด 3 ประเภท
+  * การสร้างแบบจำลองแนวคิดของ Data Warehousing ว่ามีแบบไหนบ้าง แต่ละแบบเป็นอย่างไร
+  * Star Schema
 
+* บทที่6 [Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods](https://github.com/nualpair/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88-6.pdf)
+  * Basic Concepts
+  * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
+  * ตัวอย่าง K-Itemsets
+  * การหาค่าต่าง ๆ ของ K-Itemsets
+  * การหาค่าต่าง ๆ ของ patterns
+
+* บทที่8 [Data Warehousing and On-line Anaalytical Processing](https://github.com/nualpair/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf)
 
 ## **ภาคปฏิบัติ (Google Colab)**
 
