@@ -159,3 +159,10 @@
   * Quiz 6
   * การบ้านครั้งที่ 11
   * Distance of Binary Value
+
+* สอบมิดเทอม [Mini_Exam](https://github.com/nualpair/DWDM21/blob/main/Mini_Exam.ipynb)
+
+* FinalProject [FinalProject](https://github.com/nualpair/DWDM21/blob/main/FinalProject2.ipynb)
+
+
+
