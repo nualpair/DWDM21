@@ -118,7 +118,7 @@
   * Train - Test
   * Evalution
 
-* บทที่ 8 [Chapter_8_Clustering))](https://github.com/nualpair/DWDM21/blob/main/Chap8Clustering.ipynb)
+* บทที่ 8 [Chapter_8_Clustering)](https://github.com/nualpair/DWDM21/blob/main/Chap8Clustering.ipynb)
   * K-means
   * Generat Data
   * Explole data
