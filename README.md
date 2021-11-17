@@ -118,7 +118,7 @@
   * Train - Test
   * Evalution
 
-* บทที่ 8 [Chapter_8_Clustering)](https://github.com/nualpair/DWDM21/blob/main/Chap8Clustering.ipynb)
+* บทที่ 8 [Chapter_8_Clustering](https://github.com/nualpair/DWDM21/blob/main/Chap8Clustering.ipynb)
   * K-means
   * Generat Data
   * Explole data
@@ -130,3 +130,32 @@
   * แทนสีคืนลงไป
   * Hierachical Clustering
   * Clustering Evaluation
+
+* Data Visualization [Data_Visualization](https://github.com/nualpair/DWDM21/blob/main/Data_Visualization.ipynb)
+  * Visuliazation
+  * Scatter plot
+  * Plot
+  * ควิซกลุ่ม
+  * Bar chart
+  * Stacked Barchart
+  * Histrogram
+
+* Distance Numpy [Distance Numpy](https://github.com/nualpair/DWDM21/blob/main/Distance_Numpy.ipynb)
+  * Numpy Array
+  * สร้าง numpy array
+  * สร้าง matrix เริ่มต้น (zeros,ones)
+  * สร้าง matrix random ค่าเเบบมั่ว ๆ
+  * matrix transpose
+  * Indexing & Slicing
+  * Useful Function
+  * วนลูปเอง
+  * Summation
+  * Quiz กลุ่ม
+  * Distance Matrix
+  * Euclidean Distance (L2-norm)
+  * คำนวณระยะห่าง dist(P1,P2)
+  * คำนวณระยะห่าง dist(P2,P4)
+  * Distance function
+  * Quiz 6
+  * การบ้านครั้งที่ 11
+  * Distance of Binary Value
