@@ -98,4 +98,4 @@
   * Train - Validation
   * การบ้านครั้งที่ 16
 
-* บทที่ 7 [Chap7_Classification_(KNN_NN)))](https://github.com/nualpair/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+* บทที่ 7 [Chap7_Classification_(KNN_NN))](https://github.com/nualpair/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
