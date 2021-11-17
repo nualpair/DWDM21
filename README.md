@@ -110,3 +110,11 @@
   * Train - Test
   * ANN 2
   * ANN 3
+
+* บทที่ 7 [Chapter_7_Classification_(Evaluation)](https://github.com/nualpair/DWDM21/blob/main/Chapter_7_Classification_(Evaluation).ipynb)
+  * Load data
+  * แบ่ง data
+  * สร้าง model ทำนาย
+  * Train - Test
+  * Evalution
+
