@@ -49,7 +49,14 @@
   * การหาค่าต่าง ๆ ของ K-Itemsets
   * การหาค่าต่าง ๆ ของ patterns
 
-* บทที่8 [Data Warehousing and On-line Anaalytical Processing](https://github.com/nualpair/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204.pdf)
+* บทที่8 [Classification:Basic Concepts](https://github.com/nualpair/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88-8.pdf)
+  * Classification คืออะไร
+  * การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
+  * Decision Tree ต้นไม้ตัดสินใจ
+  * หลักการสร้างตาราง
+  * ตัวอย่างในการหาค่าต่าง ๆ
+  * Naive Bayes Classfier
+ 
 
 ## **ภาคปฏิบัติ (Google Colab)**
 
